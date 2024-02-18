@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url(https://img.freepik.com/free-vector/sign-concept-illustration_114360-125.jpg?w=740&t=st=1708183597~exp=1708184197~hmac=db27c6dbf001710483d3830f83941cb707c0fb8f70419be6aa41d7384b6e9ecf);
+    height: 92vh;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}

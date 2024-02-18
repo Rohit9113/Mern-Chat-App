@@ -1,0 +1,33 @@
+.signup__bg {
+    background-image: url(https://img.freepik.com/free-vector/completed-steps-concept-illustration_114360-5521.jpg?w=740&t=st=1708183640~exp=1708184240~hmac=f2fb669fe120faa5da25e79c2b63692ef9aa63bac388714475a720703dad667b);
+    height: 92vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.signup-profile-pic__container {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.signup-profile-pic {
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    object-fit: cover;
+    height: 100px;
+}
+
+.add-picture-icon {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    color: green;
+    background: white;
+    cursor: pointer;
+    z-index: 99;
+}

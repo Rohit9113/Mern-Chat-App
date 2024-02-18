@@ -1,0 +1,13 @@
+.home__bg {
+    background-image: url(https://img.freepik.com/premium-vector/social-networks-concept-friends-with-gadgets-their-hands-discuss-news-communication-internet_118813-19969.jpg?w=740);
+    height: 83vh;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
